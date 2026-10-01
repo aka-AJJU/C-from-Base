@@ -53,3 +53,6 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# By mistake I do not remove VS Code extencion files.
+*.exe
